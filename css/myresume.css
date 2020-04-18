@@ -1,3 +1,7 @@
+ul class="fa-ul mb-0" { 
+  list-style-type：disc ; 
+}
+
 body {
 	font-family: 'Noto Sans TC', sans-serif;
 }
@@ -133,6 +137,4 @@ a:active, a:focus, a:hover {
     left: 17px;
   }
 }
- ul class="fa-ul mb-0" { 
-  list-style-type：disc ; 
-}
+ 
