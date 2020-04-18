@@ -133,6 +133,6 @@ a:active, a:focus, a:hover {
     left: 17px;
   }
 }
-ul { 
+ ul class="fa-ul mb-0" { 
   list-style-type：disc ; 
 }
