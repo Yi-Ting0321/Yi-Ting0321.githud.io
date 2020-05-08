@@ -1,7 +1,10 @@
-img {
-  max-width:600px;
-  myimg:expression(onload=function(){
-  this.style.width=(this.offsetWidth > 600)?"600px":"auto"});
+.card border-0 shadow {
+    padding-bottom: 133%;
+    position: relative;
+}
+.card border-0 shadow > img {
+    position: absolute;
+    width: 100%; height: 100%;
 }
 ul class="fa-ul mb-0" { 
   list-style-type：disc ; 
