@@ -1,5 +1,5 @@
 .card-body text-center{
-	background-color: ##fafa67;
+	background-color: #54cc9c;
         background-image: url("1212.png");
 }     
 ul class="fa-ul mb-0" { 
@@ -29,7 +29,7 @@ h1 .text-primary {
 }
 
 .bg-primary {
-	background-color: ##fafa67!important;
+	background-color: #54cc9c!important;
 	background-image: url("1212.png");
 }
 
