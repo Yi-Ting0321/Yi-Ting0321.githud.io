@@ -34,7 +34,7 @@ h1 .text-primary {
 }
 
 .text-primary {
-	color: #2F4315!important;
+	color: #54cc9c!important;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -42,19 +42,19 @@ h1 .text-primary {
 }
 
 a {
-	color: #2F4315;
+	color: #54cc9c;
 }
 
 a:active, a:focus, a:hover {
-	color: #2F4315;
+	color: #54cc9c;
 }
 
 .social-icons a:hover {
-	background-color: #2F4315;
+	background-color: #54cc9c;
 }
 
 .dev-icons .list-inline-item i:hover {
-    color: #2F4315;
+    color: #54cc9c;
 }
 
 .graph_set {
@@ -72,7 +72,7 @@ a:active, a:focus, a:hover {
 
 .timeline::after {
   content: '';
-  background-color: #2F4315;
+  background-color: #54cc9c;
   position: absolute;
   width: 6px;
   top: 0;
